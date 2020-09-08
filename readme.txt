@@ -1,0 +1,1 @@
+• Implementation of a classroom assigning simulator using Pythong and SQLite.
